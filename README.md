@@ -5,7 +5,7 @@ The Big Integer Library is a C++ class, which provides the ability to do large i
 ## Features
 
 - Operator Overloading
-    - All the __Operators__ are overloaded to things simpler and easier.
+    - All the __Operators__ are overloaded to make things simpler and easier.
 
             +  -  *  /  %  &  ^
             |  ~  >>  <<  ++  --
