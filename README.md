@@ -1,4 +1,3 @@
-
 # Big Integer Library
 
 The Big Integer Library is a C++ class, which provides the ability to do large integer arithmetic.
@@ -39,3 +38,6 @@ The Big Integer Library is a C++ class, which provides the ability to do large i
     - Logarithm
     - Fast Factorial
 
+## Licence & Copyrights
+© Surat Prakash Maurya
+Licensed under the [MIT License](LICENSE)
