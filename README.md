@@ -39,5 +39,5 @@ The Big Integer Library is a C++ class, which provides the ability to do large i
     - Fast Factorial
 
 ## Licence & Copyrights
-© Surat Prakash Maurya
+© Surat Prakash Maurya <br/>
 Licensed under the [MIT License](LICENSE)
