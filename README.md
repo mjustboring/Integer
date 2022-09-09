@@ -13,11 +13,13 @@ The Big Integer Library is a C++ class, which provides the ability to do large i
             Integer integer;
             cin >> integer;
             cout << integer;
+
 - All Arithmetic Operations
     - Addition
     - Subtraction
     - Multication
     - Division & Modulo
+
 - Any Radix/Base Conversion
 - Random Integer Generation
 - Bitwise Operations
@@ -29,6 +31,7 @@ The Big Integer Library is a C++ class, which provides the ability to do large i
     - Compliment i.e. "~"
     - set_bit
     - unset_bit
+
 - MATH UTILITY
     - Fast Square
     - Fast Square Root
